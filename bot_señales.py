@@ -7,8 +7,8 @@ app = Flask(__name__)
 # =========================
 # 🔐 CONFIGURACIÓN TELEGRAM
 # =========================
-TELEGRAM_TOKEN = TELEGRAM_TOKEN
-TELEGRAM_CHAT_ID = TELEGRAM_CHAT_ID
+TELEGRAM_TOKEN = 7569551129
+TELEGRAM_CHAT_ID = 8974978425:AAFTaLsPnFzylMyXcsgquJasMSkgZG5MXm0
 
 # =========================
 # 📲 FUNCIÓN ENVIAR MENSAJE
